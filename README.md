@@ -1,7 +1,7 @@
 # OdinPush
 odinsam push framework
 
-[![Build Status](https://travis-ci.com/odinsam/OdinPush.svg?branch=master)](https://travis-ci.com/odinsam/OdinPush) ![](https://img.shields.io/github/issues/odinsam/OdinPush) ![](https://img.shields.io/github/forks/odinsam/OdinPlugs.OdinInject) ![](https://img.shields.io/github/stars/odinsam/OdinPush) ![](https://img.shields.io/badge/platform-.Net_Core_5.0-brightgreen.svg) ![](https://img.shields.io/github/license/odinsam/OdinPush) [![](https://img.shields.io/badge/Blog-odinsam.com-blue.svg)](https://odinsam.com)
+![](https://img.shields.io/badge/version-1.0.6-brightgreen.svg)[![Build Status](https://travis-ci.com/odinsam/OdinPush.svg?branch=master)](https://travis-ci.com/odinsam/OdinPush) ![](https://img.shields.io/github/issues/odinsam/OdinPush) ![](https://img.shields.io/github/forks/odinsam/OdinPlugs.OdinInject) ![](https://img.shields.io/github/stars/odinsam/OdinPush) ![](https://img.shields.io/badge/platform-.Net_Core_5.0-brightgreen.svg) ![](https://img.shields.io/github/license/odinsam/OdinPush) [![](https://img.shields.io/badge/Blog-odinsam.com-blue.svg)](https://odinsam.com)
 
 **简介:**
 
